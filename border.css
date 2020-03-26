@@ -1,0 +1,31 @@
+.container{
+	border: 15px solid #d27a0e;
+	width: 80%;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin:auto;
+}
+.picture{
+	margin-left: 8px;
+	margin-right: 30px;
+}
+.photo{
+	margin-right: 10px;
+}
+.api{
+	text-align: center;
+	font-weight: bold;
+}
+
+.video{
+	margin-left: 100px;
+}
+
+hr{
+	border: 2px solid black;
+}
+
+h1{
+	font-family: pacifico;
+}
